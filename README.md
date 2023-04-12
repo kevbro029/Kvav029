@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio website, centralized with Bootstrap and Javascript.<br>👯 I’m looking to collaborate on projects built on Python, MySQL, and C#.<br>🌱 I’m currently learning C++ and Discrete Mathematics at the College level.<br>⚡ Fun fact: semi-colons are the bane of my existence.
+🔭 I’m currently working on my portfolio website, centralized with Bootstrap and Javascript.<br>👯 I’m looking to collaborate on projects built on Python, MySQL, and C#.<br>🌱 I’m currently learning C++ and Discrete Mathematics.<br>⚡ Fun fact: I'm learning both Korean and German linguistics.
 
 
 ## 🌐 Socials:
